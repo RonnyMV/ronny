@@ -1,4 +1,4 @@
-## Hi, how's going?  i'm Ronny, welcome to my Github
+## Hi, how's going?  I'm Ronny, welcome to my Github
 <h4> I'm passionate for coding and for the benefits of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.</h4>
 
 * During the course I will be learning: 
