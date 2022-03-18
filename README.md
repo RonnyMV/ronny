@@ -1,5 +1,5 @@
 ## Hi, how's going?  i'm Ronny, welcome to my Github
-<h4> I'm passionate for technology, specially programing and i truly believe that it can be used for good. I am currently a student at Trybe, where I started my journey as a Web Developer.</h4>
+<h4> I'm passionate for coding and for the benefits of technology. I am currently a student at Trybe, where I started my journey as a Web Developer.</h4>
 
 * During the course I will be learning: 
   * Fundamentals of web development
