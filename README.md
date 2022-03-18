@@ -3,7 +3,8 @@
 
 * During the course I will be learning: 
   * Fundamentals of web development
-  * Front-end, back-end
+  * Front-end
+  * Back-end
   * Computer Science 
 * This is a space for learning and sharing information, so feedback and contributions are always welcome.
 ## Stats
