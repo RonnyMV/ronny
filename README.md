@@ -1,11 +1,11 @@
 ## Bem vindo(a), é um prazer te-lo(a) aqui ! 
 <h4> </h4>
 
-* Atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>
- * ⌛Estou em constante evolução me aprofudando em tecnologias como React e Node.js
- * 😃ele/dele
- * 🤓Tenho intuito de colaborar em projetos que ajudem as pessoas.
- * 🤪Curiosidade: Eu lavo minhas mãos constamente, tipo, paro de codar e vou lavar as mãos (tenho pavor de mão oleosa/suja kkkk)
+* 🧠 Atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>
+ * ⌛ Estou em constante evolução me aprofudando em tecnologias como React e Node.js
+ * 😃 Ele/dele
+ * 🤓 Tenho intuito de colaborar em projetos que ajudem as pessoas.
+ * 🤪 Curiosidade: Eu lavo minhas mãos constamente, tipo, paro de codar e vou lavar as mãos (tenho pavor de mão oleosa/suja kkkk)
  <br>
  <div align="left"> 
   <a href = "mailto:rjmv.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
