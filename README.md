@@ -1,7 +1,7 @@
 ## Bem vindo(a), é um prazer te-lo(a) aqui ! 
 <h4> </h4>
 
-* 🧠 Atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>
+* 🧠 Sou desenvolvedor Web Full Stack formado pela <a href="https://www.betrybe.com/">Trybe</a>
  * ⌛ Estou em constante evolução me aprofudando em tecnologias como React e Node.js
  * 😃 Ele/dele
  * 🤓 Tenho intuito de colaborar em projetos que ajudem as pessoas.
