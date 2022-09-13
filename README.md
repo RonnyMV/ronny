@@ -2,7 +2,7 @@
 <h4> </h4>
 
 * 🧠 Sou desenvolvedor Web Full Stack formado pela <a href="https://www.betrybe.com/">Trybe</a>
- * ⌛ Estou em constante evolução me aprofudando em tecnologias como React e Node.js
+ * ⌛ Estou em constante evolução me aprofudando em tecnologias como React, Node.js e python
  * 😃 Ele/dele
  * 🤓 Tenho intuito de colaborar em projetos que ajudem as pessoas.
  * 🤪 Curiosidade: Eu lavo minhas mãos constamente, tipo, paro de codar e vou lavar as mãos (tenho pavor de mão oleosa/suja kkkk)
