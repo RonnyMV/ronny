@@ -5,7 +5,6 @@
  * ⌛ Estou em constante evolução me aprofudando em tecnologias como React, Node.js e typescript
  * 😃 Ele/dele
  * 🤓 Tenho intuito de colaborar em projetos que ajudem as pessoas.
- * 🤪 Curiosidade: Eu lavo minhas mãos constamente, tipo, paro de codar e vou lavar as mãos (tenho pavor de mão oleosa/suja kkkk)
  <br>
  <div align="left"> 
   <a href = "mailto:rjmv.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
