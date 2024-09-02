@@ -1,27 +1,7 @@
-## Bem vindo(a), é um prazer te-lo(a) aqui ! 
-<h4> </h4>
-
-* 🧠 Sou desenvolvedor Web Full Stack formado pela <a href="https://www.betrybe.com/">Trybe</a>
- * ⌛ Estou em constante evolução me aprofudando em tecnologias como React, Node.js e typescript
- * 😃 Ele/dele
- * 🤓 Tenho intuito de colaborar em projetos que ajudem as pessoas.
- <br>
- <div align="left"> 
-  <a href = "mailto:rjmv.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronny-velardez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-## Estatísticas do Github
-<div align="center">
-
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnyMV&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnyMV&layout=compact&langs_count=7&theme=compact"/>
-</div>
 
 
- ## Tecnologias que utilizo:
+
+ ## Main Stacks:
 <div align="center" style="display: inline_block"><br>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
